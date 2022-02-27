@@ -1,0 +1,119 @@
+body{
+    margin:10px;
+    /* display: flex; */
+    flex-wrap: wrap;
+    
+}
+.vl{
+    margin-left:150px;
+    border-left: 3px solid black;
+    margin-right:150px;
+    border-right: 3px solid black;
+    height: 600px;
+}
+.one{
+    width: 321px;
+    height: 250px;
+    background-color: red;
+    left:-1px;
+    position: relative;
+}
+.two{
+    width: 454px;
+    height: 130px;
+    background-color: yellow;
+    position: absolute;
+    top:40px;
+    left: 483px;
+}
+.four{
+    width: 454px;
+    height: 130px;
+    background-color:green;
+    position: absolute;
+    top: 160px;
+    left: 483px;
+}
+.three{
+    width: 167px;
+    height: 250px;
+    background-color:deeppink;
+    position: absolute;
+    top:40px;
+    left: 937px;
+}
+.main1{
+    padding-top: 14px;
+}
+.five{
+    width: 444px;
+    height: 130px;
+    background-color:orange;
+    position:absolute;
+    left:162px;
+    top: 290px;
+}
+.eight{
+    width: 640px;
+    height: 130px;
+    background-color:burlywood;
+    position: absolute;
+    left: 162px;
+    top: 420px;
+}
+.six{
+    width: 180px;
+    height:130px ;
+    background-color: deepskyblue;
+    position: absolute;
+    top: 290px;
+    left: 606px;
+}
+.seven{
+    width: 320px;
+    height: 260px;
+    background-color:rebeccapurple;
+    position: absolute;
+    left: 784px;
+    top:290px;
+}
+.number1{
+    text-align: center;
+    padding-top: 105px;
+    font-weight: bold;
+}
+.number2{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.number3{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+}
+.number4{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.number5{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.number8{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.number7{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+}
+.number6{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
